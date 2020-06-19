@@ -1,0 +1,94 @@
+
+
+
+body{
+	margin-left: 70px;
+	margin-top: 40px;
+}
+
+
+
+table{
+	border-collapse: separate;
+	line-height: 40px;
+
+}
+tr{
+	display: block;
+	float: left;
+	width:200px;
+}
+ td{
+	display: block;
+}
+.one{
+	display:grid;
+	grid-column-gap: 50px;
+}
+
+.color{
+	background-color:grey;
+}
+#with{
+	position: relative;
+	margin-top: 60px;
+}
+
+
+#button{
+	background-color: #000080;
+	margin-top: 120px;
+    margin-left: 800px;
+}
+
+.new{
+	color: #3498DB;
+}
+
+#low{
+	margin-bottom: 20px;
+}
+
+/*
+
+.list-item .list-item-link{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	color:grey;
+}
+
+.list-item{
+	border-bottom: 1px solid grey;
+	margin: 25px 0; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+#with{
+	margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
